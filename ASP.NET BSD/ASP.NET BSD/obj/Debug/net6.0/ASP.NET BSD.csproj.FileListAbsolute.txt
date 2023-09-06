@@ -1,0 +1,31 @@
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\appsettings.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\ASP.NET BSD.staticwebassets.runtime.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\ASP.NET BSD.exe
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\ASP.NET BSD.deps.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\ASP.NET BSD.runtimeconfig.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\ASP.NET BSD.dll
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\bin\Debug\net6.0\ASP.NET BSD.pdb
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.csproj.AssemblyReference.cache
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.AssemblyInfoInputs.cache
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.AssemblyInfo.cs
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.csproj.CoreCompileInputs.cache
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.RazorAssemblyInfo.cache
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.RazorAssemblyInfo.cs
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET BSD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET BSD.props
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET BSD.props
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET BSD.props
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\scopedcss\bundle\ASP.NET BSD.styles.css
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET BSD.bundle.scp.css
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.dll
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\refint\ASP.NET BSD.dll
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.pdb
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ASP.NET BSD.genruntimeconfig.cache
+C:\Users\bjoreno\Source\Repos\ASP.NET-BSD\ASP.NET BSD\ASP.NET BSD\obj\Debug\net6.0\ref\ASP.NET BSD.dll
