@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj": {}
+    "C:\\Users\\bjoreno\\Source\\Repos\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj": {
+    "C:\\Users\\bjoreno\\Source\\Repos\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj",
+        "projectUniqueName": "C:\\Users\\bjoreno\\Source\\Repos\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj",
         "projectName": "ASP.NET BSD",
-        "projectPath": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj",
-        "packagesPath": "C:\\Users\\dirk2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\obj\\",
+        "projectPath": "C:\\Users\\bjoreno\\Source\\Repos\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\ASP.NET BSD.csproj",
+        "packagesPath": "C:\\Users\\bjoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjoreno\\Source\\Repos\\ASP.NET-BSD\\ASP.NET BSD\\ASP.NET BSD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dirk2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bjoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
