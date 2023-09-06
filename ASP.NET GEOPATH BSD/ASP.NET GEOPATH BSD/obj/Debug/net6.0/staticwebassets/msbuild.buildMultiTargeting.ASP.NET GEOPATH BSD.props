@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP.NET GEOPATH BSD.props" />
+</Project>

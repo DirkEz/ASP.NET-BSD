@@ -18,6 +18,11 @@ namespace ASP.NET_GEOPATH_BSD.Controllers
             return View();
         }
 
+        public IActionResult Rooster()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
