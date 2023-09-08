@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DirkEz/ASP.NET-BSD">
-    <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">ASP.NET GEOPROFS</h3>
   <p align="center">
