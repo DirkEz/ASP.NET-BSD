@@ -4,9 +4,9 @@
   <a href="https://github.com/DirkEz/ASP.NET-BSD">
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">SWT016 COLLECTIVE</h3>
+<h3 align="center">ASP.NET GEOPROFS</h3>
   <p align="center">
-    Website for SWT016 COLLECTIVE
+    GEOPROFS Project BSD
     <br />
     <a href="https://github.com/DirkEz/ASP.NET-BSD"><strong>Explore the docs »</strong></a>
     <br />
@@ -19,8 +19,8 @@
   Contact
 </div>
 
-Dirk Schaafstra
-Bjoreno Degens
+Dirk Schaafstra <br>
+Bjoreno Degens <br>
 Suhaayb Achmed
 
 Project Link: [https://github.com/DirkEz/ASP.NET-BSD]
