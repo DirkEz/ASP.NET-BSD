@@ -6,7 +6,6 @@ C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH 
 C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\bin\Debug\net6.0\ASP.NET GEOPATH BSD.runtimeconfig.json
 C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\bin\Debug\net6.0\ASP.NET GEOPATH BSD.dll
 C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\bin\Debug\net6.0\ASP.NET GEOPATH BSD.pdb
-C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\obj\Debug\net6.0\ASP.NET GEOPATH BSD.csproj.AssemblyReference.cache
 C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\obj\Debug\net6.0\ASP.NET GEOPATH BSD.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\obj\Debug\net6.0\ASP.NET GEOPATH BSD.AssemblyInfoInputs.cache
 C:\Users\dirk2\Documents\GitHub\ASP.NET-BSD\ASP.NET GEOPATH BSD\ASP.NET GEOPATH BSD\obj\Debug\net6.0\ASP.NET GEOPATH BSD.AssemblyInfo.cs
