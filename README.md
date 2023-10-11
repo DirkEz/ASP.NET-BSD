@@ -21,7 +21,7 @@
 
 Dirk Schaafstra <br>
 Bjoreno Degens <br>
-Suhaayb Achmed
+Suhaayb Ahmed
 
 Project Link: [https://github.com/DirkEz/ASP.NET-BSD]
 
