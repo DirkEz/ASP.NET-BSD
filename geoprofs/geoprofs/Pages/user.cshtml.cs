@@ -7,17 +7,17 @@ namespace geoprofs.Pages
 {
     public class UserModel : PageModel
     {
-        [DataType(DataType.Boolean)]
+        //[DataType(DataType.Boolean)]
         public bool LoggedIn { get; private set; }
         public void OnGet()
         {
             if (!(LoggedIn = true))
                 return;        
-        }/
+        }
 
         public static implicit operator UserModel(bool v)
-        {
-            throw new NotImplementedException();
+        { 
+           throw new NotImplementedException();
         }
     }
 }
