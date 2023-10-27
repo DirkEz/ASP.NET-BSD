@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj": {}
+    "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj": {
+    "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
+        "projectUniqueName": "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
         "projectName": "geoprofs",
-        "projectPath": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
-        "packagesPath": "C:\\Users\\dirk2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\obj\\",
+        "projectPath": "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
+        "packagesPath": "C:\\Users\\bjoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dirk2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bjoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,32 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
