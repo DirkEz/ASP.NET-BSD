@@ -11157,19 +11157,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dirk2\\.nuget\\packages\\": {}
+    "C:\\Users\\bjoreno\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
+      "projectUniqueName": "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
       "projectName": "geoprofs",
-      "projectPath": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
-      "packagesPath": "C:\\Users\\dirk2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dirk2\\Documents\\GitHub\\ASP.NET-BSD\\geoprofs\\geoprofs\\obj\\",
+      "projectPath": "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\geoprofs.csproj",
+      "packagesPath": "C:\\Users\\bjoreno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bjoreno\\Source\\Repos\\DirkEz\\ASP.NET-BSD\\geoprofs\\geoprofs\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dirk2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bjoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11239,7 +11244,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
