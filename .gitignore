@@ -1,3 +1,5 @@
-geoprofs/geoprofs/bin
+/.github
+/.vs
 geoprofs/.vs
-geoprofs/obj
+geoprofs/geoprofs/bin
+geoprofs/geoprofs/obj/*
