@@ -2,4 +2,4 @@
 /.vs
 geoprofs/.vs
 geoprofs/geoprofs/bin
-geoprofs/geoprofs/obj
+geoprofs/geoprofs/obj/*
